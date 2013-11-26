@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Presente!</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="btnTomAs">Tomar asistencias</string>
+    <string name="btnVerAs">Ver asistencias</string>
+    <string name="CrearLista">Crear Lista</string>
+    <string name="btnPresente">Presente</string>
+    <string name="btnAusente">Ausente</string>
+    <string name="btnCancelar">Volver</string>
+    <string name="txtNomEnCrear">Ingrese el nombre del alumno</string>
+    <string name="BtnSigAlumno">Siguiente</string>
+    <string name="BtnGuardarLista">Guardar</string>
+    <string name="btnNomTomar"></string>
+    <string name="CantAlumnos">Cantidad de alumnos registrados:</string>
+    <string name="btnLimpiar">Limpiar</string>
+    <string name="btnVolver">Volver</string>
+    <string name="btnCerrar">Cerrar</string>
+
+</resources>
